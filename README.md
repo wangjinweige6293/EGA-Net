@@ -1,4 +1,4 @@
-# EGA-Net: Edge-Guided Attention with Bi-Axial Strip Pooling and Context Pyramid for Retinal Vessel Segmentation
+# EGA-Net: Edge-Guided Adaptive Feature Fusion with a Bi-Axial Strip Context Pyramid for Retinal Vessel Segmentation
 <img width="841" height="777" alt="image1" src="https://github.com/user-attachments/assets/b3877b05-f106-4053-8ea9-704b66272b82" />
 
 
